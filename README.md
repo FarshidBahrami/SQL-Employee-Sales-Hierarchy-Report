@@ -84,3 +84,4 @@ GROUP BY f.employee_id, f.employee_name, f.level, f.total_sales, f.unique_custom
 ORDER BY f.sales_rank, f.level;
 ```
 ### Result
+![Table Result](Q1.PNG)
